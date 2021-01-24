@@ -404,17 +404,6 @@ D+
 Text GLabel 2750 3250 0    50   Input ~ 0
 D-
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
-U 1 1 601012E0
-P 7100 2300
-F 0 "USB1" V 7637 2267 60  0000 C CNN
-F 1 "Molex-0548190589" V 7531 2267 60  0000 C CNN
-F 2 "random-keyboard-parts:Molex-0548190589" H 7100 2300 60  0001 C CNN
-F 3 "" H 7100 2300 60  0001 C CNN
-	1    7100 2300
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:VCC #PWR0111
 U 1 1 60102AD6
 P 7750 2100
@@ -603,4 +592,15 @@ Text GLabel 4900 2650 2    50   Input ~ 0
 COL0
 Text GLabel 4900 2550 2    50   Input ~ 0
 COL1
+$Comp
+L random-keyboard-parts:Molex-0548190519 USB1
+U 1 1 600F1D81
+P 7100 2400
+F 0 "USB1" V 7637 2367 60  0000 C CNN
+F 1 "Molex-0548190519" V 7531 2367 60  0000 C CNN
+F 2 "random-keyboard-parts:Molex-0548190519" H 7100 2400 60  0001 C CNN
+F 3 "" H 7100 2400 60  0001 C CNN
+	1    7100 2400
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

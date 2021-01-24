@@ -238,11 +238,11 @@ X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# random-keyboard-parts_Molex-0548190589
+# random-keyboard-parts_Molex-0548190519
 #
-DEF random-keyboard-parts_Molex-0548190589 USB 0 40 Y Y 1 F N
+DEF random-keyboard-parts_Molex-0548190519 USB 0 40 Y Y 1 F N
 F0 "USB" 0 300 60 H V C CNN
-F1 "random-keyboard-parts_Molex-0548190589" 0 400 60 H V C CNN
+F1 "random-keyboard-parts_Molex-0548190519" 0 400 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
